@@ -1,9 +1,8 @@
 # 🐱‍👤 Hidden vue
-Programmer with experience in Python,C++ and csharp specializing in game development, software creation, and tool development.
+Programmer with experience in Python and C++ specializing in game development, software creation, and tool development.
 ## 🧰Langauges/Tools 
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px; height: 50px;"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 50px; height: 50px;" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px; height: 50px;" />
            
  <img src="sfml.png" style="width: 50px; height: 50px;"/>     
